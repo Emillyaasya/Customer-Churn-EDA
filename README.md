@@ -4,7 +4,7 @@ An Exploratory Data Analysis (EDA) and Decision Tree classification dashboard de
 
 > **Note:** Because live SAS Viya reports require authenticated server access, full-resolution dashboard views and the complete exported report (including Decision Tree statistics and Automated Explanation tables) are provided below[cite: 2, 3].
 
-📄 **[View Full Exported Report (PDF)](Telco%20Churn%20Dashboard.pdf**
+📄 **[View Full Exported Report (PDF)](Telco%20Churn%20Dashboard.pdf**)
 
 ---
 
