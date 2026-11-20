@@ -14,19 +14,19 @@ An Exploratory Data Analysis (EDA) and Decision Tree classification dashboard de
 ## 📊 Dashboard Walkthrough
 
 ### 1. Executive KPI & Interactive Overview
-![Interactive Dashboard](screenshots/churn3.png)
+![Interactive Dashboard](churn3.png)
 *Summary KPIs (**7K** Total Customers, **1.9K** Churned, **27%** Churn Rate, **RM139K** Total Revenue Loss) with interactive `gender`, `Contract`, and `Churn` controls[cite: 6, 30].*
 
 ### 2. Feature & Trend Analysis (Decision Tree & Automated Explanation)
-![Feature and Trend Analysis](screenshots/churn1.png)
+![Feature and Trend Analysis](churn1.png)
 *Decision Tree model (`KS (Youden) = 0.5172`), Variable Importance, Confusion Matrix, and Automated Explanation identifying `Contract`, `tenure`, and `Tenure Group` as the top churn-related factors[cite: 4, 28].*
 
 ### 3. Interaction & Path Analysis
-![Interaction and Path Analysis](screenshots/churn2.png)
+![Interaction and Path Analysis](churn2.png)
 *Contract breakdown (`Month-to-month` vs. `One year` and `Two year`) grouped by churn status, paired with correlation vs. causation considerations for Fiber Optic and contract length[cite: 5, 29].*
 
 ### 4. Ethics, Governance & Recommendations
-![Ethics and Recommendations](screenshots/churn4.png)
+![Ethics and Recommendations](churn4.png)
 *Data privacy safeguards (`CustomerID` removed, aggregated reporting only), bias & fairness checks, and five core retention recommendations[cite: 7, 31].*
 
 ---
