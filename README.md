@@ -1,13 +1,10 @@
-# Customer-Churn-EDA
-Churn prediction dashboard built in SAS Viya (SAS Visual Analytics), analyzing 7,043 telecom customers, key churn drivers, and RM139K in revenue loss.
-
 # Customer Churn Exploratory Data Analysis & Predictive Modeling (SAS Viya)
 
 An Exploratory Data Analysis (EDA) and Decision Tree classification dashboard developed in **SAS Visual Analytics (SAS Viya)**[cite: 1, 2, 4]. This project analyzes customer attrition across **7,043 customer records**, identifies key churn drivers, quantifies monthly revenue loss, and outlines actionable retention strategies[cite: 4, 6, 7, 8].
 
 > **Note:** Because live SAS Viya reports require authenticated server access, full-resolution dashboard views and the complete exported report (including Decision Tree statistics and Automated Explanation tables) are provided below[cite: 2, 3].
 
-📄 **[View Full Exported Report (PDF)](reports/EDA_Customer_Churn_SAS_Viya.pdf)**
+📄 **[View Full Exported Report (PDF)](Telco Churn Dashboard.pdf)**
 
 ---
 
